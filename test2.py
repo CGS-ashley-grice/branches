@@ -1,5 +1,5 @@
-hi = raw_input('Whats your name? ')
-if hi == 'romily':
-    print('YEET')
+hi = raw_input("What's the passsword ")
+if hi == 'password':
+    print('welcome')
 else:
-    print('Hola')
+    print('adios')
